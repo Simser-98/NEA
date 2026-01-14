@@ -1,0 +1,270 @@
+1. Hydrogen
+Element Symbol: H
+Electron Orbital Arrangement: 1s¹
+Shorthand Electron Arrangement: [H]
+Atom Arrangement: 1
+2. Helium
+Element Symbol: He
+Electron Orbital Arrangement: 1s²
+Shorthand Electron Arrangement: [He]
+Atom Arrangement: 2
+3. Lithium
+Element Symbol: Li
+Electron Orbital Arrangement: 1s² 2s¹
+Shorthand Electron Arrangement: [He] 2s¹
+Atom Arrangement: 2,1
+4. Beryllium
+Element Symbol: Be
+Electron Orbital Arrangement: 1s² 2s²
+Shorthand Electron Arrangement: [He] 2s²
+Atom Arrangement: 2,2
+5. Boron
+Element Symbol: B
+Electron Orbital Arrangement: 1s² 2s² 2p¹
+Shorthand Electron Arrangement: [He] 2s² 2p¹
+Atom Arrangement: 2,3
+6. Carbon
+Element Symbol: C
+Electron Orbital Arrangement: 1s² 2s² 2p²
+Shorthand Electron Arrangement: [He] 2s² 2p²
+Atom Arrangement: 2,4
+7. Nitrogen
+Element Symbol: N
+Electron Orbital Arrangement: 1s² 2s² 2p³
+Shorthand Electron Arrangement: [He] 2s² 2p³
+Atom Arrangement: 2,5
+8. Oxygen
+Element Symbol: O
+Electron Orbital Arrangement: 1s² 2s² 2p⁴
+Shorthand Electron Arrangement: [He] 2s² 2p⁴
+Atom Arrangement: 2,6
+9. Fluorine
+Element Symbol: F
+Electron Orbital Arrangement: 1s² 2s² 2p⁵
+Shorthand Electron Arrangement: [He] 2s² 2p⁵
+Atom Arrangement: 2,7
+10. Neon
+Element Symbol: Ne
+Electron Orbital Arrangement: 1s² 2s² 2p⁶
+Shorthand Electron Arrangement: [He] 2s² 2p⁶
+Atom Arrangement: 2,8
+11. Sodium
+Element Symbol: Na
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s¹
+Shorthand Electron Arrangement: [Ne] 3s¹
+Atom Arrangement: 2,8,1
+12. Magnesium
+Element Symbol: Mg
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s²
+Shorthand Electron Arrangement: [Ne] 3s²
+Atom Arrangement: 2,8,2
+13. Aluminium
+Element Symbol: Al
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p¹
+Shorthand Electron Arrangement: [Ne] 3s² 3p¹
+Atom Arrangement: 2,8,3
+14. Silicon
+Element Symbol: Si
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p²
+Shorthand Electron Arrangement: [Ne] 3s² 3p²
+Atom Arrangement: 2,8,4
+15. Phosphorus
+Element Symbol: P
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p³
+Shorthand Electron Arrangement: [Ne] 3s² 3p³
+Atom Arrangement: 2,8,5
+16. Sulfur
+Element Symbol: S
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁴
+Shorthand Electron Arrangement: [Ne] 3s² 3p⁴
+Atom Arrangement: 2,8,6
+17. Chlorine
+Element Symbol: Cl
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁵
+Shorthand Electron Arrangement: [Ne] 3s² 3p⁵
+Atom Arrangement: 2,8,7
+18. Argon
+Element Symbol: Ar
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶
+Shorthand Electron Arrangement: [Ne] 3s² 3p⁶
+Atom Arrangement: 2,8,8
+19. Potassium
+Element Symbol: K
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s¹
+Shorthand Electron Arrangement: [Ar] 4s¹
+Atom Arrangement: 2,8,8,1
+20. Calcium
+Element Symbol: Ca
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
+Shorthand Electron Arrangement: [Ar] 4s²
+Atom Arrangement: 2,8,8,2
+21. Scandium
+Element Symbol: Sc
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹ 4s²
+Shorthand Electron Arrangement: [Ar] 3d¹ 4s²
+Atom Arrangement: 2,8,9,2
+22. Titanium
+Element Symbol: Ti
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d² 4s²
+Shorthand Electron Arrangement: [Ar] 3d² 4s²
+Atom Arrangement: 2,8,10,2
+23. Vanadium
+Element Symbol: V
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d³ 4s²
+Shorthand Electron Arrangement: [Ar] 3d³ 4s²
+Atom Arrangement: 2,8,11,2
+24. Chromium
+Element Symbol: Cr
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s¹
+Shorthand Electron Arrangement: [Ar] 3d⁵ 4s¹
+Atom Arrangement: 2,8,13,1
+25. Manganese
+Element Symbol: Mn
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁵ 4s²
+Shorthand Electron Arrangement: [Ar] 3d⁵ 4s²
+Atom Arrangement: 2,8,13,2
+26. Iron
+Element Symbol: Fe
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁶ 4s²
+Shorthand Electron Arrangement: [Ar] 3d⁶ 4s²
+Atom Arrangement: 2,8,14,2
+27. Cobalt
+Element Symbol: Co
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁷ 4s²
+Shorthand Electron Arrangement: [Ar] 3d⁷ 4s²
+Atom Arrangement: 2,8,15,2
+28. Nickel
+Element Symbol: Ni
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d⁸ 4s²
+Shorthand Electron Arrangement: [Ar] 3d⁸ 4s²
+Atom Arrangement: 2,8,16,2
+29. Copper
+Element Symbol: Cu
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s¹
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s¹
+Atom Arrangement: 2,8,18,1
+30. Zinc
+Element Symbol: Zn
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s²
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s²
+Atom Arrangement: 2,8,18,2
+31. Gallium
+Element Symbol: Ga
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p¹
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p¹
+Atom Arrangement: 2,8,18,3
+32. Germanium
+Element Symbol: Ge
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p²
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p²
+Atom Arrangement: 2,8,18,4
+33. Arsenic
+Element Symbol: As
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p³
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p³
+Atom Arrangement: 2,8,18,5
+34. Selenium
+Element Symbol: Se
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁴
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p⁴
+Atom Arrangement: 2,8,18,6
+35. Bromine
+Element Symbol: Br
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁵
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p⁵
+Atom Arrangement: 2,8,18,7
+36. Krypton
+Element Symbol: Kr
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶
+Shorthand Electron Arrangement: [Ar] 3d¹⁰ 4s² 4p⁶
+Atom Arrangement: 2,8,18,8
+37. Rubidium
+Element Symbol: Rb
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 5s¹
+Shorthand Electron Arrangement: [Kr] 5s¹
+Atom Arrangement: 2,8,18,8,1
+38. Strontium
+Element Symbol: Sr
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 5s²
+Shorthand Electron Arrangement: [Kr] 5s²
+Atom Arrangement: 2,8,18,8,2
+39. Yttrium
+Element Symbol: Y
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹ 5s²
+Shorthand Electron Arrangement: [Kr] 4d¹ 5s²
+Atom Arrangement: 2,8,18,9,2
+40. Zirconium
+Element Symbol: Zr
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d² 5s²
+Shorthand Electron Arrangement: [Kr] 4d² 5s²
+Atom Arrangement: 2,8,18,10,2
+41. Niobium
+Element Symbol: Nb
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d⁴ 5s¹
+Shorthand Electron Arrangement: [Kr] 4d⁴ 5s¹
+Atom Arrangement: 2,8,18,12,1
+42. Molybdenum
+Element Symbol: Mo
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d⁵ 5s¹
+Shorthand Electron Arrangement: [Kr] 4d⁵ 5s¹
+Atom Arrangement: 2,8,18,13,1
+43. Technetium
+Element Symbol: Tc
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d⁵ 5s²
+Shorthand Electron Arrangement: [Kr] 4d⁵ 5s²
+Atom Arrangement: 2,8,18,13,2
+44. Ruthenium
+Element Symbol: Ru
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d⁷ 5s¹
+Shorthand Electron Arrangement: [Kr] 4d⁷ 5s¹
+Atom Arrangement: 2,8,18,15,1
+45. Rhodium
+Element Symbol: Rh
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d⁸ 5s¹
+Shorthand Electron Arrangement: [Kr] 4d⁸ 5s¹
+Atom Arrangement: 2,8,18,16,1
+46. Palladium
+Element Symbol: Pd
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰
+Shorthand Electron Arrangement: [Kr] 4d¹⁰
+Atom Arrangement: 2,8,18,18
+47. Silver
+Element Symbol: Ag
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s¹
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s¹
+Atom Arrangement: 2,8,18,18,1
+48. Cadmium
+Element Symbol: Cd
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s²
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s²
+Atom Arrangement: 2,8,18,18,2
+49. Indium
+Element Symbol: In
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p¹
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p¹
+Atom Arrangement: 2,8,18,18,3
+50. Tin
+Element Symbol: Sn
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p²
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p²
+Atom Arrangement: 2,8,18,18,4
+51. Antimony
+Element Symbol: Sb
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p³
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p³
+Atom Arrangement: 2,8,18,18,5
+52. Tellurium
+Element Symbol: Te
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁴
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p⁴
+Atom Arrangement: 2,8,18,18,6
+53. Iodine
+Element Symbol: I
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁵
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p⁵
+Atom Arrangement: 2,8,18,18,7
+54. Xenon
+Element Symbol: Xe
+Electron Orbital Arrangement: 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶ 4d¹⁰ 5s² 5p⁶
+Shorthand Electron Arrangement: [Kr] 4d¹⁰ 5s² 5p⁶
+Atom Arrangement: 2,8,18,18,8
